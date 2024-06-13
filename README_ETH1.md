@@ -6,7 +6,7 @@ Presenting a simple Solidity smart contract that represents a token with necessa
 ## Description
 This program is a contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. This program serves as a compilation of all the things that were taught in the ETH Beginner Course under solidity like having public variables that store the details about your coin, having a mapping of addresses to balances, a mint function that takes two parameters: an address and a value and a burn function.
 
-## Getting started and Code
+## Getting started along with Code
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
 
 Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension (e.g., ETH1_Project.sol). Copy and paste the following code into the file:

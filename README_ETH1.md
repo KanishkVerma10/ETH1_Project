@@ -41,5 +41,5 @@ contract MyToken {
 }
 ```
 
-## Overview
+## Summary
 The purpose of this project is to provide users with a practical understanding of various concepts taught in the ETH_Beginner Course on Solidity. This program includes hands-on examples and implementations to reinforce learning and demonstrate the functionality of key Solidity features.

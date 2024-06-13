@@ -1,4 +1,4 @@
-# ETH1_Project - ETH PROOF: Beginner EVM Course (22BCS12395)
+# ETH PROOF: Beginner EVM Course Project (22BCS12395)
 Presenting a simple Solidity smart contract that represents a token with necessary functions such as token burning and minting.
 
 
